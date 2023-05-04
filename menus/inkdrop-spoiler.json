@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle Spoiler",
+        "command": "inkdrop-spoiler:toggle-spoiler"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "inkdrop-spoiler",
+          "submenu": [
+            {
+              "label": "Spoiler",
+              "command": "inkdrop-spoiler:toggle-spoiler"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

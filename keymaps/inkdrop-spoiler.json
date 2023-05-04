@@ -1,0 +1,5 @@
+{
+  "body": {
+    "ctrl-shift-\\": "inkdrop-spoiler:toggle-spoiler"
+  }
+}
