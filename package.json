@@ -4,10 +4,8 @@
   "version": "0.0.0",
   "description": "A spoiler plugin for inkdrop",
   "keywords": [],
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:fkunn1326/inkdrop-spoiler.git"
-  },  "license": "MIT",
+  "repository": "https://github.com/fkunn1326/inkdrop-spoiler.git",
+  "license": "MIT",
   "engines": {
     "inkdrop": "^5.x"
   },
